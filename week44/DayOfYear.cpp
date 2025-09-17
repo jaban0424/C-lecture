@@ -20,7 +20,7 @@ int DayOfYear::getDay() {
 
 /*
 DayOfYear::DayOfYear(int mv, int dv)
-	:month(mv), day(dv) {} // ¿£ÅÍ,ÄÝ·ÐÀ¸·Î member(value)ÇÏ¸é ¹Ù·Î ÀúÀå.
+	:month(mv), day(dv) {} // ì—”í„°,ì½œë¡ ìœ¼ë¡œ member(value)í•˜ë©´ ë°”ë¡œ ì €ìž¥.
 	//month=mv;
 	//day=dv;
 
